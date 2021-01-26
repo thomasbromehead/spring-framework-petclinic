@@ -132,7 +132,7 @@ Go to the `Run -> Edit Configuration` then configure a Tomcat or a Jetty web con
 Run the application by clicking on the `Run` icon.
 
 
-4) Navigate to Petclinicss
+4) Navigate to Petclinicsssss
 
 Visit [http://localhost:8080](http://localhost:8080) in your browser.
 
