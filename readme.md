@@ -183,7 +183,7 @@ Build and push the container image of Petclinic to the Docker Hub registry:
 mvn jib:build
 ```
 
-adding something here
+adding something here and here too
 
 
 ## Interesting Spring Petclinic forks
